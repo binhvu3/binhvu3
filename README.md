@@ -32,8 +32,10 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binhvu3&show_icons=true&locale=en&layout=compact" width="350" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binhvu3&" width="350" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binhvu3&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binhvu3&theme=codeSTACKr" width="400" /> 
 </p>
 
-<!-- **Credit to : https://rahuldkjain.github.io/gh-profile-readme-generator/ ** -->
+
+
+<!-- **Credit to : https://rahuldkjain.github.io/gh-profile-readme-generator/  & https://github.com/anuraghazra/github-readme-stats** -->
