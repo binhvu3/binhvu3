@@ -31,8 +31,9 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binhvu3&show_icons=true&locale=en&layout=compact" alt="binhvu3" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binhvu3&" alt="binhvu3" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binhvu3&show_icons=true&locale=en&layout=compact" width="350" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binhvu3&" width="350" /> 
+</p>
 
 <!-- **Credit to : https://rahuldkjain.github.io/gh-profile-readme-generator/ ** -->
