@@ -34,4 +34,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binhvu3&" alt="binhvu3" /></p>
 
 
-**Credit to : https://rahuldkjain.github.io/gh-profile-readme-generator/ **
+<!-- **Credit to : https://rahuldkjain.github.io/gh-profile-readme-generator/ ** -->
