@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **binhhtvu@pm.me**
 
-- ⚡ Fun fact **I enjoy spearfishing**
+- ⚡ Fun fact **I enjoy outdoor activities - hiking, spearfishing, and camping**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
