@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Binh Vu</h1>
 <h3 align="center">A passionate AWS Cloud Developer and ML Engineer</h3>
-<img align="right" alt="ML" width="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F204044%2Fscreenshots%2F3586299%2Fmachine-dribbble_800x600.gif&f=1&nofb=1&ipt=b5cbdc0f325428be45f1167b547b0e9421208823f3c48248c283f039029f2aeb&ipo=images">
 
 - 🔭 I’m currently working on [finializing documentaton for "Democratized Data Solution"](https://github.com/binhvu3/Democratized_Data_Solution)
 
@@ -13,6 +12,8 @@
 - 📫 How to reach me **binhhtvu@pm.me**
 
 - ⚡ Fun fact **I enjoy outdoor activities - hiking, spearfishing, and camping**
+
+<img align="center" alt="ML" width="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F204044%2Fscreenshots%2F3586299%2Fmachine-dribbble_800x600.gif&f=1&nofb=1&ipt=b5cbdc0f325428be45f1167b547b0e9421208823f3c48248c283f039029f2aeb&ipo=images">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,6 +36,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binhvu3&show_icons=true&locale=en&layout=compact" width="300" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=binhvu3" width="400" /> 
 </p>
+
+
 
 
 
