@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Binh Vu</h1>
 <h3 align="center">A passionate AWS Cloud Developer and ML Engineer</h3>
 
-- 🔭 I’m currently working on [finializing documentaton for "Democratized Data Solution"](https://github.com/binhvu3/Democratized_Data_Solution)
+- 🔭 I’m currently working on [])
 
 - 🌱 I’m currently learning **AWS Developer Certificate**
 
