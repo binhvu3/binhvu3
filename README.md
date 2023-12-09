@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Binh Vu</h1>
 <!-- <h3 align="center">A passionate AWS Cloud Developer and ML Engineer</h3> -->
 
-- 🔭 I’m currently working on NeoVim)
+- 🔭 I’m currently working on nvim, c++, go, and htmx.
 
 - 🌱 I’m currently learning **AWS Developer Certificate**
 
