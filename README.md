@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I enjoy outdoor activities - hiking, spearfishing, and camping**
 
-<img align="center" alt="ML" width="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F204044%2Fscreenshots%2F3586299%2Fmachine-dribbble_800x600.gif&f=1&nofb=1&ipt=b5cbdc0f325428be45f1167b547b0e9421208823f3c48248c283f039029f2aeb&ipo=images">
+<!--<img align="center" alt="ML" width="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F204044%2Fscreenshots%2F3586299%2Fmachine-dribbble_800x600.gif&f=1&nofb=1&ipt=b5cbdc0f325428be45f1167b547b0e9421208823f3c48248c283f039029f2aeb&ipo=images">-->
 
 <h3 align="left">Skills</h3>
 <p>
