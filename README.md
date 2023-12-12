@@ -49,7 +49,7 @@
   <!-- </p> -->
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binhvu3&show_icons=true&locale=en&layout=compact" width="300" />
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=binhvu3" width="400" /> -->
   
