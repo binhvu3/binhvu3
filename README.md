@@ -20,15 +20,18 @@
 <!-- <p align="left"> Programming Languages: -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> <img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://gyazo.com/1a96b785ff1300c0e008687c2cd31893/thumb/1000" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" alt="css" width="40" height="40"/> </a>
 <!-- </p> -->
   <!-- <p align="left"> AI/ML: -->
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> </a> 
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
   <!-- </p> -->
 <!-- <p align="left"> Devops: -->
@@ -39,6 +42,7 @@
   <!-- <p align="left"> Others: -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a> 
   <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="http://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/nvim-icon.png" alt="nvim" width="40" height="40"/> </a> 
   <a href="https://github.com/tmux/tmux/wiki" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/teepublic/image/private/s--KUVocOzc--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1544636289/production/designs/3719861_0.jpg" alt="tmux" width="40" height="40"/> </a> 
   <a href="https://github.com/ohmyzsh/ohmyzsh" target="_blank" rel="noreferrer"> <img src="https://forums.developer.apple.com/forums/build-10052020-1/public/assets/tags/zsh/zsh-280.png" alt="zsh" width="40" height="40"/> </a> 
