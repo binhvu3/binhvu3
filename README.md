@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/binhvu3](https://github.com/binhvu3)
 
-- 💬 Ask me about **ML Algorithm and full data science tech stacks**
+- 💬 Ask me about **ML Algorithms, Networking, RDBMS**
 
 - 📫 How to reach me **binhhtvu@pm.me**
 
