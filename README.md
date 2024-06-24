@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Binh Vu</h1>
 <!-- <h3 align="center">A passionate AWS Cloud Developer and ML Engineer</h3> -->
 
-- 🔭 I’m currently working on nvim, c++, go, and htmx.
-
-- 🌱 I’m currently learning **AWS Developer Certificate**
+- 🔭 I’m currently working on kubernetes.
 
 - 👨‍💻 All of my projects are available at [https://github.com/binhvu3](https://github.com/binhvu3)
 
-- 💬 Ask me about **ML Algorithms, Networking, RDBMS**
+- 💬 Ask me about **ML Algorithms, Networking, RDBMS, Devops**
 
 - 📫 How to reach me **binhhtvu@pm.me**
 
