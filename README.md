@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on kubernetes.
 
-- 👨‍💻 All of my projects are available at [https://github.com/binhvu3](https://github.com/binhvu3)
-
 - 💬 Ask me about **ML Algorithms, Networking, RDBMS, Devops**
 
 - 📫 How to reach me **binhhtvu@pm.me**
@@ -12,6 +10,15 @@
 - ⚡ Fun fact **I enjoy outdoor activities - hiking, spearfishing, and camping**
 
 <!--<img align="center" alt="ML" width="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F204044%2Fscreenshots%2F3586299%2Fmachine-dribbble_800x600.gif&f=1&nofb=1&ipt=b5cbdc0f325428be45f1167b547b0e9421208823f3c48248c283f039029f2aeb&ipo=images">-->
+
+<h3 align="left">CI-CD</h3>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="anible" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" alt="aws" width="40" height="40"/> </a> 
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+  
 <h3 align="left">Languages</h3>
 <p>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -22,18 +29,9 @@
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> <img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://gyazo.com/1a96b785ff1300c0e008687c2cd31893/thumb/1000" alt="typescript" width="40" height="40"/> </a>
 
-<h3 align="left">CI-CD</h3>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="anible" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+
 
 <h3 align="left">Machine Learning & Others</h3>
-
-  
-
 <!-- </p> -->
   <!-- <p align="left"> AI/ML: -->
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> </a> 
@@ -51,10 +49,9 @@
   <!-- </p> -->
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binhvu3&show_icons=true&locale=en&layout=compact" width="300" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=binhvu3" width="400" /> -->
-  
+<!-- <p align="center"> -->
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=binhvu3&show_icons=true&locale=en&layout=compact" width="300" /> -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=binhvu3" width="400" /> --> 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/binh-ht-vu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/binh-ht-vu/" height="30" width="40" /></a>
