@@ -49,6 +49,12 @@
   <a href="https://github.com/ohmyzsh/ohmyzsh" target="_blank" rel="noreferrer"> <img src="https://forums.developer.apple.com/forums/build-10052020-1/public/assets/tags/zsh/zsh-280.png" alt="zsh" width="40" height="40"/> </a> 
 
   <!-- </p> -->
+
+<h3 align="left">Monitoring</h3>
+  <a href="https://prometheus.io/docs/introduction/overview/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/> </a> 
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/> </a>
+
+
 </p>
 
 <!-- <p align="center"> -->
