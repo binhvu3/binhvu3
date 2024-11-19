@@ -22,6 +22,7 @@
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="gcp" width="40" height="40"/> </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="gcp" width="40" height="40"/> </a>
+  <a href="https://tanstack.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/binhvu3/devicon/blob/main/icons/tanstack/tanstack.svg" alt="gcp" width="40" height="40"/> </a>
   
 <h3 align="left">Languages</h3>
 <p>
