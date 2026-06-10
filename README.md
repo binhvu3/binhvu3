@@ -14,17 +14,6 @@ ML pipelines and deployed models, self-hosted infrastructure, and tools that run
 
 ---
 
-## Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [FishID](https://fishid.binhtvu.com) | Fish species classifier — 202 species, 83.3% val accuracy | PyTorch, EfficientNet-B4, FastAPI, Docker |
-| [Portfolio](https://binhtvu.com) | Personal site | Astro, Docker, Cloudflare |
-| [UFC Fight Predictor](https://github.com/binhvu3/ufc-fights-analysis) | ML model predicting fight outcomes | Python, scikit-learn |
-| [Salmon Analysis](https://github.com/binhvu3/salmon-analysis) | Environmental data pipeline | Python, pandas |
-
----
-
 ## Stack
 
 **Languages**
